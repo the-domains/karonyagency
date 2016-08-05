@@ -1,0 +1,14 @@
+layout_spectrum: 0.12409019563347101
+typography_spectrum: 0.4903058223426342
+color:
+  brandStrength: 0.06039216206409037
+  lightness: 0.7687808896880597
+  saturation: 0.909244287526235
+  rhythmicContrast: 0.8217229219153523
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: KaronyAgency
