@@ -6,9 +6,10 @@ color:
   saturation: 0.909244287526235
   rhythmicContrast: 0.8217229219153523
   brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: KaronyAgency
+title: Leadership & Executive Coaching
