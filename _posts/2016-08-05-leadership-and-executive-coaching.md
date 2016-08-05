@@ -7,28 +7,27 @@ publisher:
   favicon: null
   domain: thekaronyagency.com
 keywords:
-  - karonyagency
-  - cyber
-  - businesses
-  - karony
+  - brick-and-mortar
+  - incorporate
+  - business
+  - wonder
   - it-business
-  - german-speaking
-  - bottom-line
-  - multi-decade
-  - partnerships
-  - fluent
+  - karonyagency
+  - click-and-mortar
+  - innovative
+  - communication
+  - professional
 description: >-
-  I work with executives, senior managers, and IT professionals within
-  businesses who are feeling both excited and overwhelmed at the prospect of
-  creating an innovative and secure IT-business partnership model using
-  modernized information and communication processes and are having difficulties
-  on where and how to begin.
+  Are you thinking 'why I do I feel my business group is behind the times when
+  it comes to our incorporation of IT?' Do you wake up in the morning with the
+  fear of your business being 'hacked' and losing IP, market share, and
+  credibility among your business peers?
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://thekaronyagency.com/'
+isBasedOnUrl: 'https://thekaronyagency.com/who-ru/'
 title: Leadership & Executive Coaching
-datePublished: '2016-08-05T02:50:05.371Z'
-dateModified: '2016-08-05T02:45:53.075Z'
+datePublished: '2016-08-05T02:50:08.040Z'
+dateModified: '2016-08-05T02:49:46.037Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-05-leadership-and-executive-coaching.md
@@ -39,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Leadership &amp; Executive Coaching</h1><p>I work with executives, senior managers, and IT professionals within businesses who are feeling both excited and overwhelmed at the prospect of creating an innovative and secure IT-business partnership model using modernized information and communication processes and are having difficulties on where and how to begin.</p><img src="https://thekaronyagency.com/wp-content/uploads/2015/07/cropped-image1.jpeg" /></article>
+<article style=""><h1>Leadership &amp; Executive Coaching</h1><p>Are you thinking 'why I do I feel my business group is behind the times when it comes to our incorporation of IT?' Do you wake up in the morning with the fear of your business being 'hacked' and losing IP, market share, and credibility among your business peers?</p><img src="https://thekaronyagency.com/wp-content/uploads/2015/07/cropped-image1.jpeg" /></article>
