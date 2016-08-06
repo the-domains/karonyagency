@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-06T01:42:58.430Z'
+datePublished: '2016-08-06T02:07:25.141Z'
 sourcePath: >-
   _posts/2016-08-05-compiled-from-the-writings-of-brene-brown-eckhart-tolle-and.md
 author: []
 via: {}
-dateModified: '2016-08-06T01:42:31.483Z'
+dateModified: '2016-08-06T02:07:22.810Z'
 title: Building Bridges with others on our team where we …
 publisher: {}
-description: '-Live life in a messy and imperfect world.'
+description: '-Stand for something.'
 starred: false
 inFeed: true
 hasPage: false
@@ -17,7 +17,7 @@ _type: MediaObject
 ---
 ### Building Bridges with others on our team where we ...
 
-**-Live life in a [messy][0] and [imperfect][1] world.**
+### **-Live life in a [messy][0] and [imperfect][1] world.**
 
 **-Stand for something.**
 
