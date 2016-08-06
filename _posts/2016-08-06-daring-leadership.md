@@ -1,7 +1,7 @@
 ---
-description: Daring Leadership
-dateModified: '2016-08-06T01:35:56.834Z'
-datePublished: '2016-08-06T01:37:08.371Z'
+description: '4 Pillars of Courage:'
+dateModified: '2016-08-06T01:30:05.003Z'
+datePublished: '2016-08-06T01:37:15.412Z'
 title: ''
 author: []
 publisher: {}
@@ -14,22 +14,14 @@ inNav: false
 _type: MediaObject
 
 ---
-Daring Leadership
+4 Pillars of Courage:
 
-Excerpt from Talk by Brené Brown
+* Vulnerability
 
-\* You will get your a$$ kicked.
+* Clarity of Values
 
-\* You will show up even when you cannot control the outcome.
+* Trust
 
-\* If you are not in the arena occasionally getting your a$$ kicked, you don't need to give me advice.
+* Rising Skills
 
-\* The arena is surrounded by individuals in cheap seats giving advice to those of us in the arena.
-
-\* Your boundaries are your values.
-
-\* The only thing you can take into the arena is your clarity of values.
-
-\* Your clarity of values determines your boundaries.
-
-\* When you cross the threshold into the arena strip away your armor and put down your weapons so you can have a clear mind when you connect with others in the arena.
+-Brené Brown
