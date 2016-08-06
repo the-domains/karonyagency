@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-06T02:10:56.935Z'
+datePublished: '2016-08-06T03:25:18.873Z'
 sourcePath: _posts/2016-08-06-daring-leadership.md
 author: []
 via: {}
-dateModified: '2016-08-06T02:10:56.458Z'
+dateModified: '2016-08-06T03:25:18.480Z'
 title: ''
 publisher: {}
-description: '4 Pillars of Courage:'
+description: '4 Pillars of Courage by Brené Brown:'
 starred: false
 inFeed: true
 hasPage: false
@@ -14,14 +14,6 @@ inNav: false
 _type: MediaObject
 
 ---
-4 Pillars of Courage:
+4 Pillars of Courage by Brené Brown:
 
--by Brené Brown
-
-* Vulnerability
-
-* Clarity of Values
-
-* Trust
-
-* Rising Skills
+\* Vulnerability \* Clarity of Values \* Trust \* Rising Skills \*
