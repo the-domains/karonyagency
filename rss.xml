@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 06 Aug 2016 02:45:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/karonyagency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Disney Institute]]></title>
+            <description><![CDATA[<article><h1>Disney Institute</h1><p>Disney Institute is the professional development arm of The Walt Disney Company. Built on the global success of Disney, our solutions engage organizations in time-tested best practices, sound methodologies, and real life business lessons that facilitate corporate culture change.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/262f348e279e49750d46b9ce64f152fe/noop.jpg?input=https%3A%2F%2Fdisneyinstitute.com%2Fimages%2Fhero-01.jpg"></article>]]></description>
+            <link>https://disneyinstitute.com/</link>
+            <guid isPermaLink="false">90353630-8793-4019-b1fe-e9f980c57315</guid>
+            <pubDate>Sat, 06 Aug 2016 02:45:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eckhart Tolle | Official Site - Spiritual Teachings and Tools For Personal Growth and Happiness]]></title>
             <description><![CDATA[<article><h1>Eckhart Tolle | Official Site - Spiritual Teachings and Tools For Personal Growth and Happiness</h1><p>Official site for the author of</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3c706179f2e9734b784cd489fc410d94/noop.jpg?input=https%3A%2F%2Fwww.eckharttolle.com%2Fv3%2Fimages%2Ftablets.jpg"></article>]]></description>
             <link>https://www.eckharttolle.com/</link>
@@ -68,13 +75,6 @@
             <link>https://www.thehonorfoundation.org/</link>
             <guid isPermaLink="false">2a1d3248-6f59-4323-9aae-20e4d5689e18</guid>
             <pubDate>Fri, 05 Aug 2016 03:45:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://brenebrown.com/wp-content/uploads/2013/09/Rising-Strong-Manifesto.jpg"></article>]]></description>
-            <link>http://brenebrown.com/wp-content/uploads/2013/09/Rising-Strong-Manifesto.jpg</link>
-            <guid isPermaLink="false">56a262af-07c3-49ae-85e0-ba63b0fa58c3</guid>
-            <pubDate>Fri, 05 Aug 2016 03:15:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
