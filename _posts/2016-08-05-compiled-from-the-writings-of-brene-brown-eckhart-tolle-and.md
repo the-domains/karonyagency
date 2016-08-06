@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-06T02:07:25.141Z'
+datePublished: '2016-08-06T03:50:24.063Z'
 sourcePath: >-
   _posts/2016-08-05-compiled-from-the-writings-of-brene-brown-eckhart-tolle-and.md
 author: []
 via: {}
-dateModified: '2016-08-06T02:07:22.810Z'
+dateModified: '2016-08-06T03:50:23.543Z'
 title: Building Bridges with others on our team where we …
 publisher: {}
-description: '-Stand for something.'
+description: '-Live in a messy and imperfect world.'
 starred: false
 inFeed: true
 hasPage: false
@@ -15,29 +15,24 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6389a029-8f7c-43bd-b463-0cb1c118233c.jpg)
+
 ### Building Bridges with others on our team where we ...
 
-### **-Live life in a [messy][0] and [imperfect][1] world.**
+**-Live in a messy and imperfect world.**
 
 **-Stand for something.**
 
-**[-Make & keep commitments.][2]**
+**-Make & keep commitments.**
 
-**[-Remain open to other views.][2]**
+**-Remain open to other views.**
 
-**[-Act courageously, compassionately & connect.][2]**
+**-Act courageously, compassionately & connect.**
 
-**-[Be in Being.][3]**
+**-Be in Being.**
 
-**-[Love & accept ourself.][4]**
+**-Love & accept ourself.**
 
-**-[Listen.][5]**
+**-Listen.**
 
 \*Adapted from the writings of _Brené Brown_, _Eckhart Tolle_, & _Stephen M. R. Covey_
-
-[0]: https://www.youtube.com/watch?v=RZWf2_2L2v8&feature=iv&src_vid=1Evwgu369Jw&annotation_id=channel%3Acta%3A1Evwgu369Jw_1387377892141912 "Blame"
-[1]: https://www.youtube.com/watch?v=1Evwgu369Jw#action=share "Shame"
-[2]: http://www.speedoftrust.com/Home "The Speed of Trust"
-[3]: http://www.eckharttolle.de/ "Be in Being"
-[4]: https://youtu.be/kAk4cwjvJ0A "Dare Greatly"
-[5]: https://thekaronyagency.com/ "Listen"
